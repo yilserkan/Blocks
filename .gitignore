@@ -13,6 +13,8 @@
 /Assets/Settings/
 /Assets/StreamingAssets/
 /Assets/Presets/
+/UserSettings/
+/ProjectSettings/
 
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
