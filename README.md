@@ -3,6 +3,19 @@
 ## About the game
 This game is a mobile puzzle game where the player needs to put pieces into a grid in the correct order. The levels within this game are procedurally generated according to the choosen difficulty. See ['Procedural Generation.pdf'](https://github.com/yilserkan/Blocks/blob/main/Procedural%20Generation.pdf) for a more detailed explanation of the procedural generation algortihm. 
 
+The game concludes of 2 modes. 
+
+**Play Mode** : After a level is selected the player can play the game. 
+
+**Generate Level Mode** : Within this mode, new levels can be procedurally generated according to the chosen difficulty. These levels can be saved, so that they will be added to the level pool.
+
+## Used Patterns
+
+### Object Pooling
+I used object pooling whilst creating the pieces and the anchor points to save performance.
+
+### Humble Object
+This was mainly used to be able to write unit tests on some critical parts of the code.
 
 ## Game Screenshots
 ### In-Game
