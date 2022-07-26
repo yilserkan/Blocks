@@ -5,9 +5,9 @@ This game is a mobile puzzle game where the player needs to put pieces into a gr
 
 The game concludes of 2 modes. 
 
-**Play Mode** : After a level is selected the player can play the game. 
+**Play Mode** : After a level is selected the player can play the game. The level information are being saved in a JSON file. These information are being used to create the levels.
 
-**Generate Level Mode** : Within this mode, new levels can be procedurally generated according to the chosen difficulty. These levels can be saved, so that they will be added to the level pool.
+**Generate Level Mode** : Within this mode, new levels can be procedurally generated according to the chosen difficulty. These levels can be saved within a JSON file, so that they will be added to the level pool.
 
 ## Used Patterns
 
